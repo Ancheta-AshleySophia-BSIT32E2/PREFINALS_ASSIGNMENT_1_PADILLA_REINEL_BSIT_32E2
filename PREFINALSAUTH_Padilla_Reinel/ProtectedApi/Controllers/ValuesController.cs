@@ -21,7 +21,7 @@ namespace ProtectedApi.Controllers
 
             var funFacts = new[]
             {
-                "I hate programming",
+                "I hate coding",
                 "I enjoy playing video games",
                 "I love dancing",
             };
